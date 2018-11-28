@@ -32,3 +32,6 @@ p {
 .adventure {
     color:red;
 }
+.pic {
+    border:double 10px;
+}
